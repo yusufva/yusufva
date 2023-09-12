@@ -81,16 +81,6 @@
 
 ###
 
-<h2 align="left">🐍 Github Snake</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yusufva/yusufva/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">🌐 My Social Media</h2>
 
 ###
@@ -109,8 +99,3 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yusufva.yusufva&left_color=dodgerblue&left_text=</> Profile Views"  />
-</div>
-
-###
